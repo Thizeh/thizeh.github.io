@@ -14,3 +14,9 @@
     transform: scale(1.08);
     opacity: 0.7;
 }
+
+.main-button.-full {
+    width: 100%;
+    transition: none;
+    transform: none;
+}
